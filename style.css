@@ -1,0 +1,13 @@
+body {
+background-color:#00ff00;
+color:blue;
+font-family:"comic sans ms" ;
+}
+p.first{
+width: 10px;
+color:red;
+}
+p.second {
+width: 100px;
+color: yellow;
+}
